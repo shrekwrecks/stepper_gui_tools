@@ -1,0 +1,17 @@
+[project]
+name = "jstest"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cobs>=1.2.2",
+    "construct>=2.10.70",
+    "matplotlib>=3.10.5",
+    "pygame>=2.6.1",
+    "pyqtgraph>=0.13.7",
+    "pyserial>=3.5",
+    "pyside6==6.9.0",
+    "pytest>=8.4.1",
+    "scipy>=1.16.1",
+]
